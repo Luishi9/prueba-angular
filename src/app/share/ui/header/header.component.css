@@ -1,0 +1,5 @@
+.navbar {
+  position: relative !important;
+  flex-grow: 1;
+  /* El contenido principal se ajustará sin superponerse */
+}
